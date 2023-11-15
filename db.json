@@ -1,7 +1,14 @@
 {
-    "users": {
+    "users": [
+        {
         "email": "rose@mail.com",
         "password": 123456,
         "id": 1
-    }
+        },
+        {
+        "email": "rose@bk.ru",
+        "password": 124956,
+        "id": 2
+        }
+    ]
 }
